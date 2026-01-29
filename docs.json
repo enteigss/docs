@@ -30,8 +30,8 @@
           {
             "group": "Getting started",
             "pages": [
-              "development",
-              "quickstart"
+              "quickstart",
+              "development"
             ]
           },
           {
@@ -55,8 +55,8 @@
           {
             "group": "AI tools",
             "pages": [
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "ai-tools/windsurf",
+              "ai-tools/claude-code"
             ]
           }
         ]
