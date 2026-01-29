@@ -30,8 +30,8 @@
           {
             "group": "Getting started",
             "pages": [
-              "quickstart",
-              "development"
+              "development",
+              "quickstart"
             ]
           },
           {
